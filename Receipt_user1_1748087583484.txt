@@ -1,0 +1,16 @@
+Receipt:
+--------------------------------------------------
+Customer: rashel
+Customer number:1234567890
+Salesperson: user1
+Date: Sat May 24 17:22:24 IST 2025
+--------------------------------------------------
+Item                Qty       Price      Total
+Apple (1 kg)         9        50.00      450.00
+Milk (1 liter)       7        30.00      210.00
+--------------------------------------------------
+CGST (18%):                          ₹118.80
+SGST (5%):                           ₹33.00
+Grand Total:                         ₹811.80
+--------------------------------------------------
+Thank you for shopping with us!

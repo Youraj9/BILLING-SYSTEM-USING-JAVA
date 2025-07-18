@@ -1,0 +1,15 @@
+Receipt:
+--------------------------------------------------
+Customer: rashel sarkar
+Customer number:1234567890
+Salesperson: user1
+Date: Sat May 24 10:17:58 IST 2025
+--------------------------------------------------
+Item                Qty       Price      Total
+Sugar (1 kg)         1        45.00      45.00
+--------------------------------------------------
+CGST (18%):                          ₹8.10
+SGST (5%):                           ₹2.25
+Grand Total:                         ₹55.35
+--------------------------------------------------
+Thank you for shopping with us!
